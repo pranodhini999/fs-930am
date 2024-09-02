@@ -2,3 +2,8 @@ this line written by developer - 1
 this line written by developer - 2
 hello
 welcome
+
+frontend
+backend
+database
+DSA
